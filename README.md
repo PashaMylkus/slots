@@ -36,7 +36,7 @@ It was developed according to the following technical requirements:
 1. **Clone the repository:**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/PashaMylkus/slots.git
    cd slots
    ```
 
